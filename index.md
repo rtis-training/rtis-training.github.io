@@ -1,6 +1,6 @@
-Otago Carpentries is a group of Carpentries trained instructors at University of Otago that run and co-ordinate [Carpentries workshops](https://carpentries.org) and other associated activities at University of Otago. 
+RTIS Training will list the training resources and workshops that are run but the RTIS team.
 
-**Email contact**: carpentries@otago.ac.nz
+**Email contact**: rtis.training@otago.ac.nz
 
 # Workshops and Events
 
@@ -14,11 +14,16 @@ Otago Carpentries is a group of Carpentries trained instructors at University of
 
 R for successful student projects is mini-course in a flipped-classroom format where the material is available and run through in your own time and drop in sessions for questions/assistance are run. For more information about the content and sessions see [THIS PAGE](r4ssp).
 
-## Study Groups
 
-### Otago Study Group
+## Other training on campus
 
-{% include studygroup.md %}
+### Otago Carpentries
+
+[Otago Carpentries](https://otagocarpentries.github.io) co-ordinates workshops from [The Carpentries](https://carpentries.org) that occur at Otago.
+
+### Genomics Aotearoa
+
+[Genomics Aotearoa](genomicsaotearoa.github.io) deliver workshops for bioinformatic training.
 
 ### Otago South Campus Bioinformatics Group
 
