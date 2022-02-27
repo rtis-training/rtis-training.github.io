@@ -46,7 +46,7 @@ During the sessions assistance for your own code projects can also be saught.
 
 ### Sign-up
 
-Please register your interest for attendance by filling in this [**form:** https://forms.gle/T3bvSdiDfkVgqiAr5](https://forms.gle/T3bvSdiDfkVgqiAr5). We'll send you reminders each week for the upcoming session.
+Please register your interest for attendance by filling in this [**form:** https://forms.gle/sASc1wPzofzkPHUj9](https://forms.gle/sASc1wPzofzkPHUj9). We'll send you reminders each week for the upcoming session.
 
 ### Other ITS operated R courses
 
