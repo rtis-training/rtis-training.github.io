@@ -3,7 +3,7 @@
 March
 
 Introduction to the UNIX Shell (online workshop) single day workshop
-- Registration Link [https://www.eventbrite.com/e/introduction-to-unix-tickets-216538722147]
+- [Registration Link](https://www.eventbrite.com/e/introduction-to-unix-tickets-216538722147)
 - 17th March
 - 28th March
 
