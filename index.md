@@ -1,4 +1,4 @@
-RTIS Training will list the training resources and workshops that are run but the RTIS team.
+This page will list the training resources and workshops run by the Research and Teaching IT Support (RTIS) team.
 
 **Email contact**: rtis.training@otago.ac.nz
 
