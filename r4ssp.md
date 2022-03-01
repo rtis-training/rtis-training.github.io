@@ -6,6 +6,11 @@ Advances in scientific technologies from remote sensors to genetic sequencers me
 
 There is no assessment or credit offered as part of this course.
 
+### Sign-up
+
+Please register your interest for attendance by filling in this [**form:** https://forms.gle/sASc1wPzofzkPHUj9](https://forms.gle/sASc1wPzofzkPHUj9). We'll send you reminders each week for the upcoming session.
+
+
 ## Course Resources
 
 The course material is free of cost and is currently being updated to be ready for the 16 March
@@ -46,9 +51,7 @@ Date | Module | Part | Topic
 
 During the sessions assistance for your own code projects can also be saught.
 
-### Sign-up
 
-Please register your interest for attendance by filling in this [**form:** https://forms.gle/sASc1wPzofzkPHUj9](https://forms.gle/sASc1wPzofzkPHUj9). We'll send you reminders each week for the upcoming session.
 
 ### Other ITS operated R courses
 
