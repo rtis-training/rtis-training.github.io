@@ -8,12 +8,18 @@ There is no assessment or credit offered as part of this course.
 
 ### Sign-up
 
-Please register your interest for attendance by filling in this [**form:** https://forms.gle/sASc1wPzofzkPHUj9](https://forms.gle/sASc1wPzofzkPHUj9). We'll send you reminders each week for the upcoming session.
+Registration of interest has closed for this semester for the online Zoom sessions.
 
+<!--
+Please register your interest for attendance by filling in this [**form:** https://forms.gle/sASc1wPzofzkPHUj9](https://forms.gle/sASc1wPzofzkPHUj9). We'll send you reminders each week for the upcoming session.
+-->
 
 ## Course Resources
 
 The course material is free of cost and is currently being updated to be ready for the 16 March
+
+**[COURSE MATERIAL AVAILABLE HERE](https://rtis-training.github.io/2022-s1-r4ssp/index.html)**
+
 
 <!--
 - [Handouts and Exercises](https://drive.google.com/drive/folders/1ttf1s8-vkJNOlHdphfi2zFyMq6gGEvCy?usp=sharing) - licensed under [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
