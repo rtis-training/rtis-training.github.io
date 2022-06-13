@@ -13,7 +13,7 @@ Introduction to the UNIX Shell (online workshop) single day workshop
 2021
 
 - 2 - 3 September 2021: [Software Carpentry Workshop (Intro to UNIX shell, version control, and R for Reproducible Science)](https://otagocarpentries.github.io/2021-09-02-otago/)
-  - **POSTPONED**
+
 
 ## Past Events
 
