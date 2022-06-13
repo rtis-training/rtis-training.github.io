@@ -8,7 +8,7 @@ There is no assessment or credit offered as part of this course.
 
 ### Sign-up
 
-Registration of interest has closed for this semester for the online Zoom sessions.
+Registration of interest will be opening soon for semester 2
 
 <!--
 Please register your interest for attendance by filling in this [**form:** https://forms.gle/sASc1wPzofzkPHUj9](https://forms.gle/sASc1wPzofzkPHUj9). We'll send you reminders each week for the upcoming session.
@@ -18,7 +18,7 @@ Please register your interest for attendance by filling in this [**form:** https
 
 The course material is free of cost and is currently being updated to be ready for the 16 March
 
-**[COURSE MATERIAL AVAILABLE HERE](https://rtis-training.github.io/2022-s1-r4ssp/index.html)**
+**[COURSE MATERIAL AVAILABLE HERE](https://rtis-training.github.io/2022-s2-r4ssp/index.html)**
 
 
 <!--
@@ -36,24 +36,25 @@ It would be greatly appreciated if as you complete modules you fill in this thre
 
 **What:** These sessions will be structured as a workshop with content taught and some exercises available. There will also be an opportunity to get assistance with code you are working on. To get the most out of these sessions bringing your own device with access to R/RStudio is strongly recommended.
 
-**When:** Semester 1 - Wednesdays 10 and 12 noon, starting from 16th March.
+**When:** Semester 2 - Tuesdays 10 and 12 noon, starting from 26th July.
 
-**Where:** On Zoom - please sign up to be emailed a zoom invite
+**Where:** Science Library Seminar Room - please sign up
 
 It is possible to complete the course in your own time, but the drop-in sessions will follow this schedule.
 
-Date | Module | Part | Topic 
----|---|---|---
-16 March | Setup | | Introduce the tools: R and RStudio
- 23 March | Data Focus | 1 | Looking at Data
- 30 March | Data Focus | 2 | Selecting and Filtering Data
- 6 April| Data Focus | 3 | Transforming Data
- 13 April | Data Focus | 4 | Summarising Data
- | MID SEMESTER | 
- 27 April | Data Focus | 5 | Communicating Data
- 4 May| Programming Focus | 1 | Functions and Logic
- 11 May | Programming Focus | 2 | Loops and Iterators
- 18 May | Programming Focus | 3 | Workflows
+Date | Week | Module | Part | Topic 
+:--|:-:|:-|:-:|:--
+26 July | 1 | Setup | | Introduce the tools: R and Rstudio 
+2 August | 2 | Data focus |1 | Visualising Data 
+9 August | 3 | Data focus |2 | Selecting and Filtering Data
+16 August | 4 | Data focus |3 | Summarising Data 
+23 August| 5 | Data focus |4 | Transforming Data 
+30 August | - | MID-SEMESTER | |
+6 September | 6 | Data focus |5 | Communicating Data
+13 September | 7 | Programming focus | 1 | Functions and Choices
+20 September | 8 | Programming focus | 2 | Repeating code
+27 September | 9 | Programming focus | 3 | Workflows and debugging 
+3 October | 10 | --- | --- | Ask us anything
 
 During the sessions assistance for your own code projects can also be saught.
 
