@@ -16,9 +16,7 @@ Please register your interest for attendance by filling in this [**form:** https
 
 ## Course Resources
 
-The course material is free of cost and is currently being updated to be ready for the 16 March
-
-**[COURSE MATERIAL AVAILABLE HERE](https://rtis-training.github.io/2022-s2-r4ssp/index.html)**
+The course material is free of cost and is **[AVAILABLE HERE](https://rtis-training.github.io/2022-s2-r4ssp/index.html)**
 
 
 <!--
