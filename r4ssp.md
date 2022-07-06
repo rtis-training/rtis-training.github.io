@@ -6,13 +6,13 @@ Advances in scientific technologies from remote sensors to genetic sequencers me
 
 There is no assessment or credit offered as part of this course.
 
+- Staff are welcome to participate in the course
+
 ### Sign-up
 
-Registration of interest will be opening soon for semester 2
+Please register [using this form](https://docs.google.com/forms/d/e/1FAIpQLScOCwMa1_pSZPZEJyOZ4Wp8OORPqbd_S_84QPwaHR7urDu2mA/viewform?usp=sf_link) to receive details.
+ We'll send you reminders each week for the upcoming session.
 
-<!--
-Please register your interest for attendance by filling in this [**form:** https://forms.gle/sASc1wPzofzkPHUj9](https://forms.gle/sASc1wPzofzkPHUj9). We'll send you reminders each week for the upcoming session.
--->
 
 ## Course Resources
 
@@ -36,7 +36,7 @@ It would be greatly appreciated if as you complete modules you fill in this thre
 
 **When:** Semester 2 - Tuesdays 10 and 12 noon, starting from 26th July.
 
-**Where:** Science Library Seminar Room - please sign up
+**Where:** Online via Zoom - please sign up for details
 
 It is possible to complete the course in your own time, but the drop-in sessions will follow this schedule.
 
