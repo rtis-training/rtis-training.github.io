@@ -16,7 +16,7 @@ Please register [using this form](https://docs.google.com/forms/d/e/1FAIpQLScOCw
 
 ## Course Resources
 
-The course material is free of cost and is **[AVAILABLE HERE](https://rtis-training.github.io/2022-s2-r4ssp/index.html)**
+The course material is free of cost and is **[AVAILABLE HERE](https://rtis-training.github.io/2023-s1-r4ssp/index.html)**
 
 
 <!--
@@ -34,25 +34,28 @@ It would be greatly appreciated if as you complete modules you fill in this thre
 
 **What:** These sessions will be structured as a workshop with content taught and some exercises available. There will also be an opportunity to get assistance with code you are working on. To get the most out of these sessions bringing your own device with access to R/RStudio is strongly recommended.
 
-**When:** Semester 2 - Tuesdays 10 and 12 noon, starting from 26th July.
+**When and when:** Semester 1 2023 R for Successful Student Projects (R4SSP) will be online via Zoom, 10am-noon Tuesdays. An in-person help/study group session will run 3:30-4:30pm on Thursdays.
 
-**Where:** Online via Zoom - please sign up for details
+please sign up for details
 
-It is possible to complete the course in your own time, but the drop-in sessions will follow this schedule.
+It is possible to complete the course in your own time, but the Instructor led sessions will follow this schedule:
 
-Date | Week | Module | Part | Topic 
-:--|:-:|:-|:-:|:--
-26 July | 1 | Setup | | Introduce the tools: R and Rstudio 
-2 August | 2 | Data focus |1 | Visualising Data 
-9 August | 3 | Data focus |2 | Selecting and Filtering Data
-16 August | 4 | Data focus |3 | Summarising Data 
-23 August| 5 | Data focus |4 | Transforming Data 
-30 August | - | MID-SEMESTER | |
-6 September | 6 | Data focus |5 | Communicating Data
-13 September | 7 | Programming focus | 1 | Functions and Choices
-20 September | 8 | Programming focus | 2 | Repeating code
-27 September | 9 | Programming focus | 3 | Workflows and debugging 
-3 October | 10 | --- | --- | Ask us anything
+Date | Week | Module | Part | Topic | Instructor
+:--|:-:|:-|:-:|:--|:--:|
+Week starting 6 March | 1 | Setup | | Introduce the tools: R and Rstudio | P
+Week starting 13 March | 2 | Data focus | 1 | Visualising Data | M
+Week starting 20 March | 3 | Data focus | 2 | Selecting and Filtering Data | P
+Week starting 27 March | 4 | Data focus | 3 | Communicating Data | M
+Week starting 3 April  | 5 | Data focus | 4 | Summarising Data | P
+Week starting 10 April | - | MID-SEMESTER | | |
+Week starting 17 April | 6 | Data focus | 5 | Tidying Data | M
+Week starting 24 April | 7 |Data focus | 6 | Combining/Joining |P
+Week starting 1st May | 8 | Programming focus | 1 | Functions and Choices | M
+Week starting 8th May | 9 | Programming focus | 2 | Repeating code | P
+Week starting 15th May | 10 | Programming focus | 3 | Workflows and debugging | M
+Week starting 22nd May | --- | --- | --- | Ask us anything | P/M
+
+Optional unit - Using version control with R (TBD)
 
 During the sessions assistance for your own code projects can also be saught.
 
