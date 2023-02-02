@@ -34,7 +34,7 @@ It would be greatly appreciated if as you complete modules you fill in this thre
 
 **What:** These sessions will be structured as a workshop with content taught and some exercises available. There will also be an opportunity to get assistance with code you are working on. To get the most out of these sessions bringing your own device with access to R/RStudio is strongly recommended.
 
-**When and when:** Semester 1 2023 R for Successful Student Projects (R4SSP) will be online via Zoom, 10am-noon Tuesdays. An in-person help/study group session will run 3:30-4:30pm on Thursdays.
+**When and where:** Semester 1 2023 R for Successful Student Projects (R4SSP) will be online via Zoom, 10am-noon Tuesdays. An in-person help/study group session will run 3:30-4:30pm on Thursdays.
 
 please sign up for details
 
