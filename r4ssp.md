@@ -10,7 +10,7 @@ There is no assessment or credit offered as part of this course.
 
 ### Sign-up
 
-Please register [using this form](https://docs.google.com/forms/d/e/1FAIpQLScOCwMa1_pSZPZEJyOZ4Wp8OORPqbd_S_84QPwaHR7urDu2mA/viewform?usp=sf_link) to receive details.
+Please register [using this form](https://docs.google.com/forms/d/e/1FAIpQLScVcCLMmgIYgZ2wBXgnaPL4ivhlZnhAM4jS0mHwQb6vcsJmkQ/viewform?usp=sf_link) to receive details.
  We'll send you reminders each week for the upcoming session.
 
 
