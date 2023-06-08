@@ -17,9 +17,9 @@ R for successful student projects is mini-course in a flipped-classroom format w
 
 ## Other training on campus
 
-### Otago Carpentries
+### Software and Data Carpentry Workshops
 
-[Otago Carpentries](https://otagocarpentries.github.io) co-ordinates workshops from [The Carpentries](https://carpentries.org) that occur at Otago.
+RTIS co-ordinates workshops from [The Carpentries](https://carpentries.org) that occur at Otago.
 
 ### Genomics Aotearoa
 
