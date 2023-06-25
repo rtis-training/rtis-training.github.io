@@ -10,7 +10,7 @@ There is no assessment or credit offered as part of this course.
 
 ### Sign-up
 
-Please register by emailing rtis.training@otago.ac.nz <!--[using this form](https://forms.gle/B7y2vguKr1kmUHYQA) to receive details.
+Please register by emailing rtis.training@otago.ac.nz [using this form](https://forms.gle/B7y2vguKr1kmUHYQA) to receive details.
  We'll send you reminders each week for the upcoming session.
  
 <!-- Sign up has closed for semester 1. -->
