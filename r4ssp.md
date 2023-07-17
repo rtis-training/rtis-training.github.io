@@ -10,10 +10,10 @@ There is no assessment or credit offered as part of this course.
 
 ### Sign-up
 
-Please register [using this form](https://forms.gle/B7y2vguKr1kmUHYQA) to receive details.
- We'll send you reminders each week for the upcoming session.
+<!--Please register [using this form](https://forms.gle/B7y2vguKr1kmUHYQA) to receive details.
+ We'll send you reminders each week for the upcoming session. -->
  
-<!-- Sign up has closed for semester 1. -->
+Sign up has closed for semester 2.
 
 The course materials are free to use and work through. If you have questions or would like assistance with R, please email rtis.training@otago.ac.nz.
 
