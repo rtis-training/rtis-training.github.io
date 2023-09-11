@@ -1,20 +1,23 @@
 ## 2023
 
-September
+### September
 
 NZ Research Software Engineers Conference (online)
 
 - 18 - 19 September
 - [Registration](https://www.rseconference.nz)
 
-November
+### November
 
-- 14th Nov - Introduction to the UNIX Shell (online workshop) single day workshop
-  - Expressions of interest opening soon
-- 15/16th Nov - Software Carpentry (in-person) - Introduction to UNIX Shell, Python, and Version control using Git
+14th Nov - Introduction to the UNIX Shell (online workshop) single day workshop
 
-  - Registration opening soon
+- Expressions of interest opening soon
 
-- Otago Bioinformatics Spring School 2023 (in-person): 27 November - 1 December
-  - Expressions of interest close 29th September
-  - [Website](https://otagobioinformaticsspringschool.github.io/2023/)
+15/16th Nov - Software Carpentry (in-person) - Introduction to UNIX Shell, Python, and Version control using Git
+
+- Registration opening soon
+
+Otago Bioinformatics Spring School 2023 (in-person): 27 November - 1 December
+
+- Expressions of interest close 29th September
+- [Website](https://otagobioinformaticsspringschool.github.io/2023/)
