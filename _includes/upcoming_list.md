@@ -1,11 +1,6 @@
 ## 2023
 
-### September
 
-NZ Research Software Engineers Conference (online)
-
-- 18 - 19 September
-- [Registration](https://www.rseconference.nz)
 
 ### November
 
