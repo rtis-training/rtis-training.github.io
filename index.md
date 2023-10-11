@@ -23,7 +23,7 @@ RTIS co-ordinates workshops from [The Carpentries](https://carpentries.org) that
 
 ### Genomics Aotearoa
 
-[Genomics Aotearoa](genomicsaotearoa.github.io) deliver workshops for bioinformatic training.
+[Genomics Aotearoa](https://genomicsaotearoa.github.io) deliver workshops for bioinformatic training.
 
 ### Otago South Campus Bioinformatics Group
 
