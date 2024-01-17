@@ -1,4 +1,3 @@
-[Past Workshops and Events](past)
 
 ## Past Workshops
 
