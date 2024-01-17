@@ -12,7 +12,14 @@ This page will list the training resources and workshops run by the Research and
 
 ### [R for Successful Student Projects (R4SSP)](r4ssp) 
 
-R for successful student projects is mini-course in a flipped-classroom format where the material is available and run through in your own time and drop in sessions for questions/assistance are run. For more information about the content and sessions see [THIS PAGE](r4ssp).
+R for successful student projects was a mini-course in a flipped-classroom format where the material is available and run through in your own time and drop in sessions for questions/assistance are run. For more information about the content and sessions see [THIS PAGE](r4ssp). 
+
+In 2024, R4SSP is being re-designed and the content of R4SSP will be covered through:
+
+- **Introduction to Data Analysis and Visualisation with R** will be covered by Data Carpentry workshops
+- The extra content in R4SSP on data analysis and visualisation will be delivered by a separate workshop.
+- **R Programming** will be covered by a stand-alone separate workshop
+
 
 
 ## Other training on campus
@@ -21,10 +28,14 @@ R for successful student projects is mini-course in a flipped-classroom format w
 
 RTIS co-ordinates workshops from [The Carpentries](https://carpentries.org) that occur at Otago.
 
+### Human Resources IT Training
+
+[Learning and Development within Human Resources](https://www.otago.ac.nz/its/services/it-training-courses-at-the-university-of-otago) provide workshops across many topics
+
 ### Genomics Aotearoa
 
 [Genomics Aotearoa](https://genomicsaotearoa.github.io) deliver workshops for bioinformatic training.
 
-### Otago South Campus Bioinformatics Group
+### NeSI
 
-[Events and training materials](https://otagomohio.github.io/)
+There are a number of training workshops offered through NeSI and listed in the [NeSI Training catalogue](https://www.nesi.org.nz/services/training/training-service-catalogue)
